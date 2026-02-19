@@ -1,4 +1,4 @@
-# Europe Ageing Analysis (EU29 + Türkiye, 2018)
+# Europe Ageing Analysis (EU28 + Türkiye, 2018)
 
 This repository contains a reproducible ageing analysis using United Nations World Population Prospects (2024 Revision).
 
